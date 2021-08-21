@@ -15,9 +15,8 @@ This is a new file created by VIM at 14:39 Aug. 21st
 Hi there!
 ==============this is dev branch=============
 I will do something on thiss branch.
-<<<<<<< HEAD
+
 the master branch is here, 
-=======
 
 16:19, I created a new branch named featurel. 
->>>>>>> featurel
+
