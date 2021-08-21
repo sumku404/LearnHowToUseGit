@@ -8,4 +8,4 @@ This is a new file created by VIM at 14:39 Aug. 21st
 1. removed the whole supports of Android, and no longer do.
 2. added the Websocket and RPC protocol.
 3. will supply iOS and MacOS on Aug. 22nd.
-
+4. perfected the dark mode.
