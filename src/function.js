@@ -6,6 +6,9 @@ let _AUTHOR  = "sumkux"
 
 (function(args) {
 
+	let ecy = 0xfff10;
+	let key = 123456789f;
+
 
 	let cpyData = function(data, target) {
 		if(date == '') return;
@@ -18,4 +21,5 @@ let _AUTHOR  = "sumkux"
 		version : _VERSION,
 		author  : _AUTHOR
 	}
+
 )

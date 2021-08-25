@@ -24,3 +24,6 @@ the master branch is here,
 git is a free software on we
 
 modified on Aug. 28th
+
+=============2021.08.25=============
+bug fixed.
